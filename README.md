@@ -38,3 +38,18 @@ Configure the Memcached settings for both Active and StandBy hosts.
 
 - **Port**: The port number for the standby Memcached server (default is 11211).
 
+
+
+
+## RabbitMQ Configuration
+
+
+Details for connecting to the RabbitMQ server.
+
+- **Address**: The address of the RabbitMQ server.
+
+- **Port**: The port number for the RabbitMQ server (default is 5671).
+
+- **Username**: Your RabbitMQ username.
+
+- **Password**: Your RabbitMQ password.
