@@ -10,3 +10,10 @@ This document provides the necessary configuration details for setting up your a
 These configurations are used to set up the JDBC connection to your MySQL database.
 
 - **Driver Class Name**: Specify the MySQL JDBC driver.
+
+
+- **JDBC URL**: Provide the URL of your database server.
+
+- **Username**: Your database username.
+
+- **Password**: Your database password.
