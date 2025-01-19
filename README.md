@@ -53,3 +53,19 @@ Details for connecting to the RabbitMQ server.
 - **Username**: Your RabbitMQ username.
 
 - **Password**: Your RabbitMQ password.
+
+
+
+## Elasticsearch Configuration
+
+Configuration details for connecting to the Elasticsearch cluster.
+
+- **Host**: The IP address or hostname of the Elasticsearch node.
+
+- **Port**: The port number for the Elasticsearch node (default is 9300).
+
+- **Cluster Name**: The name of your Elasticsearch cluster.
+
+- **Node Name**: The name of the node within the Elasticsearch cluster.
+
+Make sure to replace placeholders (****) with your actual configuration details. Keep this document secure and confidential.
