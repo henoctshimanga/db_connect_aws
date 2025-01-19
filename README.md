@@ -17,3 +17,15 @@ These configurations are used to set up the JDBC connection to your MySQL databa
 - **Username**: Your database username.
 
 - **Password**: Your database password.
+
+
+
+## Memcached Configuration
+
+Configure the Memcached settings for both Active and StandBy hosts.
+
+### Active Host
+
+- **Host**: The IP address or hostname of the active Memcached server.
+
+- **Port**: The port number for the active Memcached server (default is 11211).
